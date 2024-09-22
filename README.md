@@ -23,7 +23,7 @@ Welcome to **Pac-Man**, the classic arcade game re-imagined for your enjoyment! 
 
 3. **Run the Game**:
    ```bash
-   python pacman.py
+   python game.py
    ```
 
 ## How to Play
